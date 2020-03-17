@@ -25,13 +25,13 @@
 <h2>Result</h2>
 <p>The project finished successfully. The result is diplayed in figure 2,3, and 4. In this project, I have learnt about grid layout, tag number and action onclick in XML. Besides, the built in function such as findViewById(),setVisibility(),getChildCount(), and getChildAt() </p>
 <div align="center">
-	<img src="ezgif.com-video-to-gif.gif">
+	<img src="./Resources/ezgif.com-video-to-gif.gif">
 	<p>Figure 3. Gameplay of the TicTacToe</p>
 	<div></div>
-	<img src="./Resources/RedWin">
+	<img src="./Resources/RedWin.png">
 	<p>Figure 4. Red wins</p>
 	<div></div>
-	<img src="./Resources/YellowWin">
+	<img src="./Resources/YellowWin.png">
 	<p>Figure 5. Yellow wins</p>
 </div>
 </ol>
