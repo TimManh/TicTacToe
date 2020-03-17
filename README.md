@@ -6,7 +6,7 @@
 	<img src="./Resources/GameScreen.png">
 	<p>Figure 1. The screen of the game </p>
 </div>
-<h2>II. procedure</h2>
+<h2>II. Procedure</h2>
 <strong>Flow Chart</strong>
 <div align="center">
 	<img src="./Resources/FlowChart.png">
