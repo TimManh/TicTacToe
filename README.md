@@ -1,12 +1,12 @@
 # TicTacToe
 <h1> First Project in Six Month Challenge of Android App Development</h1>
-<h2>Introduction</h2>
+<h2>I. Introduction</h2>
 <p>This project is just a basic tic tac toe game for starter project. The idea is having two player in the game, and these two players are represented by either red or yellow. This a 3x3 tic tac toe game</p>
 <div align="center">
 	<img src="./Resources/GameScreen.png">
 	<p>Figure 1. The screen of the game </p>
 </div>
-<h2>procedure</h2>
+<h2>II. procedure</h2>
 <strong>Flow Chart</strong>
 <div align="center">
 	<img src="./Resources/FlowChart.png">
@@ -22,7 +22,8 @@
 	<li>Drop one of the chip(Red/Yellow) into the square</li>
 	<li>In the xml file, set up the tag for each chip so it is easier for developer to generate the source code</li>
 	<li>Implement the source file in MainActivity.java. Each line of code is provided with comment of explaination</li>
-<h2>Result</h2>
+</ol>
+<h2>III. Result</h2>
 <p>The project finished successfully. The result is diplayed in figure 2,3, and 4. In this project, I have learnt about grid layout, tag number and action onclick in XML. Besides, the built in function such as findViewById(),setVisibility(),getChildCount(), and getChildAt() </p>
 <div align="center">
 	<img src="./Resources/ezgif.com-video-to-gif.gif">
@@ -34,4 +35,3 @@
 	<img src="./Resources/YellowWin.png">
 	<p>Figure 5. Yellow wins</p>
 </div>
-</ol>
