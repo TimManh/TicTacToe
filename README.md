@@ -24,7 +24,7 @@
 	<li>Implement the source file in MainActivity.java. Each line of code is provided with comment of explaination</li>
 </ol>
 <h2>III. Result</h2>
-<p>The project finished successfully. The result is diplayed in figure 2,3, and 4. In this project, I have learnt about grid layout, tag number and action onclick in XML. Besides, the built in function such as findViewById(),setVisibility(),getChildCount(), and getChildAt() </p>
+<p>The project finished successfully. The result is diplayed in figure 3,4, and 5. In this project, I have learnt about grid layout, tag number and action onclick in XML. Besides, the built in function such as findViewById(),setVisibility(),getChildCount(), and getChildAt() </p>
 <div align="center">
 	<img src="./Resources/ezgif.com-video-to-gif.gif">
 	<p>Figure 3. Gameplay of the TicTacToe</p>
